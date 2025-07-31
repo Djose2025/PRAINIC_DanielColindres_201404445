@@ -137,3 +137,7 @@ Usá guantes antiestáticos o tocá una superficie metálica antes de manipular 
 Realizá respaldos de datos importantes antes de desmontar cualquier componente.
 
 No forzar ninguna pieza; si algo no entra bien, chequeá la orientación del conector antes de continuar.
+
+
+Link de mi video tutorial en YouTube:
+https://youtu.be/XBAWB8utZ4o
