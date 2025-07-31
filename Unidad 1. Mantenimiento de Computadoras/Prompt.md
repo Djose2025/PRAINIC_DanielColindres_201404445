@@ -5,3 +5,4 @@ Informacion del manual
 Datos vido YouTube
 <img width="1042" height="494" alt="image" src="https://github.com/user-attachments/assets/bae7a7f2-8f55-43b5-9baa-2de8141ab671" />
 Para crear un trifoliar
+<img width="1042" height="546" alt="image" src="https://github.com/user-attachments/assets/cd66371d-4d24-4b4c-a43e-7a72e05b5054" />
